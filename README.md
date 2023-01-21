@@ -10,7 +10,7 @@
 
 ### - Skills
 
-  🌱 I’m currently learning JS, Angular, C#, .net, Entity Framework, microsservices, Unity.
+  🌱 I’m currently learning JS, Angular, C#, .net, Entity Framework, microservices, Unity.
 
 ### - I'm looking for
 
