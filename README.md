@@ -10,7 +10,7 @@
 
 ### - Skills
 
-  🌱 I’m currently learning JS, Angular, C#, .net, Entity Framework, Unity.
+  🌱 I’m currently learning JS, Angular, C#, .net, Entity Framework, microsservices, Unity.
 
 ### - I'm looking for
 
@@ -24,5 +24,4 @@
 ###  😄 Languages
   English Advanced |
   Spanish Intermediate |
-  French Beginner |
   Portuguese Native
